@@ -6,7 +6,7 @@ public class c1 {
     {
 
         System.out.println("hello git 1");
-
+        System.out.println("hello git 2");
     }
 
 }
